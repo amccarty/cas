@@ -20,6 +20,13 @@
                 <artifactId>maven-war-plugin</artifactId>
                 <version>2.6</version>
                 <configuration>
+                    <webResources>
+                      <resource>
+                        <directory>myresources/ebextensions</directory>
+                        <targetPath>.ebextensions</targetPath>
+                        <filtering>true</filtering>
+                      </resource>
+                    </webResources>
                     <warName>cas</warName>
                     <overlays>
                         <overlay>
