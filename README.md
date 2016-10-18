@@ -1,4 +1,4 @@
-[![Build Status](http://jenkins.ithacatrails.com/buildStatus/icon?job=cas-deploy-to-dev&build=11)](http://jenkins.ithacatrails.com/job/cas-deploy-to-dev/11/)
+[![Build Status](https://jenkins.ecornell.us/buildStatus/icon?job=cas-deploy-to-dev&build=11)](http://jenkins.ithacatrails.com/job/cas-deploy-to-dev/11/)
 
 CAS Overlay Template
 ============================
