@@ -1,4 +1,4 @@
-[![Build Status](https://jenkins.ecornell.us/buildStatus/icon?job=cas-deploy-to-dev)](https://jenkins.ecornell/us/job/cas-deploy-to-dev/)
+[![Build Status](https://jenkins.ecornell.us/buildStatus/icon?job=cas-deploy-to-dev)](https://jenkins.ecornell.us/job/cas-deploy-to-dev/)
 
 CAS Overlay Template
 ============================
